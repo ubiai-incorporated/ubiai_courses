@@ -8,10 +8,12 @@ By now, we’ve all probably heard about Large Language Models (LLMs) at some po
 Beyond the Hype: LLMs represent a fundamental shift in human-computer interaction, enabling natural language as a universal interface. Unlike temporary tech trends, their capabilities 
 
 ### LLM Application
-| Example               | Impact                                      |
-|-----------------------|---------------------------------------------|
-| Code Generation       | GitHub Copilot                              |
-| AI Assistants in Development | Microsoft’s AI tools                | 55% increase in developer speed (Microsoft data) |
+
+| LLM Application             | Example             | Impact                                     |
+|----------------------------|---------------------|--------------------------------------------|
+| Code Generation            | GitHub Copilot      | Demonstrates measurable productivity gains |
+| AI Assistants in Development | Microsoft’s AI tools | 55% increase in developer speed (Microsoft data) |
+
 
 **Economic Impact:** Case studies like Chegg’s stock drop (after ChatGPT’s release) highlight disruptive potential. Conversely, startups like you.com leverage LLMs for search personalization and cited results, This would be impossible with traditional ML.
 
