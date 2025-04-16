@@ -1,4 +1,4 @@
-# Model Selection
+# 3. Model Selection
 
 ## Why Model Selection Matters
 
