@@ -5,7 +5,7 @@
 By now, we’ve all probably heard about Large Language Models (LLMs) at some point—on the news, in class, or even just through social media buzz. With their importance growing bigger and bigger, it’s essential to familiarize ourselves with the key concepts behind them and understand how they work in order to put them to good use. This module is designed to help you grasp why LLMs are so transformative, where they truly shine, and where they still fall short. By the end, you’ll be equipped to critically evaluate LLM applications in your own domain and make informed decisions about how to use (or not use) them.
 
 ## The Paradigm Shift
-Beyond the Hype: LLMs represent a fundamental shift in human-computer interaction, enabling natural language as a universal interface. Unlike temporary tech trends, their capabilities 
+**Beyond the Hype:** LLMs represent a fundamental shift in human-computer interaction, enabling natural language as a universal interface. Unlike temporary tech trends, their capabilities 
 
 ### LLM Application
 
