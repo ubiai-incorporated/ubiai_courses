@@ -1,4 +1,4 @@
-1. Introduction to Large Language Models (LLMs)
+# 1. Introduction to Large Language Models (LLMs)
 
 ## Introduction
 
