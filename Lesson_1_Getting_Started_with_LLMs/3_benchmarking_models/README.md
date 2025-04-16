@@ -1,4 +1,4 @@
-# Benchmarking
+# 4. Benchmarking
 
 Working with Large Language Models might seem like easy work, but make no mistake, every seemingly instant reply comes at a very real computational cost. Before jumping into training or deploying a model, it's crucial to understand the potential costs of running it in a real world environment. The aim here isn't just to work with the latest models, it's to do so efficiently and create real, sustainable value.
 
