@@ -1,4 +1,4 @@
-# The New AI Stack: Evaluation → Deployment → Feedback → Tuning → Iteration
+# The New AI Stack
 
 ## Introduction: The Flywheel Effect in Modern AI Systems  
 
