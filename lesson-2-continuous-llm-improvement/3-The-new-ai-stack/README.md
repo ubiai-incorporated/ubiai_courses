@@ -3,7 +3,7 @@
 ## Introduction: The Flywheel Effect in Modern AI Systems  
 
 
-The most advanced AI teams no longer think in pipelines—they architect *perpetual learning engines*. Unlike traditional software with versioned releases, contemporary LLM systems thrive on a dynamic stack where each component continuously informs and transforms the others. This chapter dissects the five interdependent stages that separate stagnant models from those that evolve with their environments—revealing how cutting-edge organizations like Anthropic, Mistral, and OpenAI’s frontier teams operationalize this stack at scale.  
+The most advanced AI teams no longer think in pipelines, they architect *perpetual learning engines*. Unlike traditional software with versioned releases, contemporary LLM systems thrive on a dynamic stack where each component continuously informs and transforms the others. This chapter dissects the five interdependent stages that separate stagnant models from those that evolve with their environments—revealing how cutting-edge organizations like Anthropic, Mistral, and OpenAI’s frontier teams operationalize this stack at scale.  
 
 
 ### Why Linear Lifecycles Fail for AI  
@@ -82,5 +82,4 @@ Organizations mastering this stack exhibit three key advantages:
 2. **Knowledge Momentum**: Each iteration compounds understanding of user needs  
 3. **Adaptive Moats**: Competitors can’t copy continuous improvement processes overnight  
 
-
-**Final Insight**: The stack’s ultimate output isn’t just better models—it’s *institutional learning* encoded in systems, tools, and team practices. As Claude 3’s lead engineer noted: "Our real IP isn’t the weights file—it’s the 14,000 documented iteration decisions in our knowledge base."  
+The stack’s ultimate output isn’t just better models, it’s *institutional learning* encoded in systems, tools, and team practices. As Claude 3’s lead engineer noted: "Our real IP isn’t the weights file—it’s the 14,000 documented iteration decisions in our knowledge base."  
