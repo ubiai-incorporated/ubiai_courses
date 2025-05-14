@@ -12,6 +12,8 @@ What follows is a comprehensive yet practical guide to navigating these challeng
 
 The foundation of any successful fine-tuning project lies in a deep, nuanced understanding of the training data. Large language models, with their billions of parameters and extensive pre-training, exhibit remarkable sensitivity to the characteristics of the data they're fine-tuned on. This relationship between data and model behavior makes thorough data analysis not just beneficial but absolutely essential.
 
+![image](https://github.com/user-attachments/assets/ff829bbf-3879-47b0-9323-d540de22e36c)
+
 When examining a dataset for fine-tuning purposes, we need to consider several interlocking factors. First is the question of data quality - not just the absence of errors, but the consistency of style, depth of coverage, and appropriateness for the target task. For example, a dataset meant to train a medical Q&A system must be evaluated not just for factual accuracy but for how well it represents the types of questions real users might ask, the breadth of medical topics covered, and the appropriateness of the response style.
 
 | Characteristic       | Evaluation Method               | Common Pitfalls                  |
@@ -26,6 +28,9 @@ Data augmentation often becomes necessary when working with limited training dat
 ## Strategic Hyperparameter Selection
 
 Hyperparameter optimization in LLM fine-tuning presents unique challenges that differ markedly from traditional deep learning scenarios. The presence of pretrained weights that already encode substantial linguistic knowledge requires a more nuanced approach than simply maximizing validation accuracy.
+
+![image](https://github.com/user-attachments/assets/9109a303-6960-47ac-87ac-1a91b2ec3afe)
+
 
 The learning rate serves as perhaps the most critical hyperparameter, acting as a control knob between preserving existing knowledge and acquiring new capabilities. Through extensive experimentation, researchers have found that a phased learning rate approach often works best. An initial warmup period allows the model to gently adjust to the new data distribution, followed by a period of stable learning, and concluding with a gradual decay. This approach prevents the violent disruption of valuable pretrained features while still enabling necessary adaptations.
 
