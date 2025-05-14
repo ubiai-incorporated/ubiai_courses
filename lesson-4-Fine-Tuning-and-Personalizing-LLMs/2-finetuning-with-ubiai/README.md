@@ -20,15 +20,18 @@ At the bottom of the navigation panel, you’ll find helpful resources, includin
 When you first open the platform, you’ll start in the Models page, where you can immediately begin working on a new projects.  
 
 ## Account Settings  
-The Settings section in UbiAI allows you to manage your account details and preferences. You can access it via the bottom-left menu. Below is a breakdown of the key options available:  
-![image](https://github.com/user-attachments/assets/b9e9e884-daca-47f3-a69b-cdc10e1cceb8)
+The Settings section in UbiAI allows you to manage your account details and preferences. You can access it via the bottom-left menu. Below is a breakdown of the key options available: 
+
+![image](https://github.com/user-attachments/assets/061913ea-66e7-445b-8879-b77faea695a2)
 
 ### Personal Information:  
-Here, you can update your name and last name. This section ensures your account reflects your most up-to-date details.  
+Here, you can update your name and last name. This section ensures your account reflects your most up-to-date details. 
+
 ![image](https://github.com/user-attachments/assets/d01f494e-a68d-4885-a831-ddc750b9a451)
 
 ### Account Information:  
 In this section, you can manage your email and password. If you need to change your password, simply click on the *Change Password* option, and you’ll be guided through the process to reset it.  
+
 ![image](https://github.com/user-attachments/assets/f389c524-78bb-4aee-9935-5bd7baca15b7)
 
 ### Plan & Products:  
@@ -49,17 +52,20 @@ If your requirements extend beyond what’s offered in the standard plans, you c
 
 ### Billing Information  
 In the Billing Information section, you can view your billing details, access your invoices, and download receipts. This ensures that you stay on top of your payment history and account charges.  
+
 ![image](https://github.com/user-attachments/assets/48d707fd-f239-40d8-9b1c-322b6b7b7ecc)
 
 ### Shared Offer  
 This section allows you to manage your team. You can add or remove users, view invitations you’ve received, and see who is part of your shared workspace.  
+
 ![image](https://github.com/user-attachments/assets/dd125e5a-1d0e-4695-817b-c749d9645115)
 
 ### Integrations  
 Here, you can connect UbiAI to external tools like OpenAI or Hugging Face through API keys. This allows simple integration with your favorite tools.  
+
 ![image](https://github.com/user-attachments/assets/fba5db23-7ad0-40c9-854c-e701072aa83a)
 
----
+
 
 ## Any Prerequisites?  
 UbiAI is a no-code cloud-based platform, so there are minimal technical requirements to get started. However, here are some prerequisites to ensure a smooth setup:  
@@ -68,7 +74,6 @@ UbiAI is a no-code cloud-based platform, so there are minimal technical requirem
 - **Browser Compatibility**: UbiAI is best used on modern browsers. Make sure you're up to date.  
 - **Account Permissions**: Ensure that your account has the necessary permissions to access the features you intend to use. (check your plan)  
 
----
 
 ## Getting Started with Your First Project  
 Once your account is set up, you're ready to create your first project in UbiAI. Here's a quick overview of the steps to start:  
@@ -91,7 +96,6 @@ Once your account is set up, you're ready to create your first project in UbiAI.
 6. **Deploy Your Fine-Tuned Model**  
    Once you’re satisfied with the fine-tuned model, you can deploy it directly using UbiAI’s API. UbiAI provides an API endpoint that allows you to integrate the fine-tuned model into your application or project.  
 
----
 
 ## Additional Resources  
 To ensure you get the most out of UbiAI, here are some helpful resources:  
@@ -101,16 +105,18 @@ To ensure you get the most out of UbiAI, here are some helpful resources:
 - **Community Support**: Join the UbiAI social media to connect with other users. Ask questions, share tips, and engage in discussions that can help you maximize your use of the platform.  
 - **Customer Support**: If you encounter any issues or need personalized assistance, our support team is here to help. Reach out to us via email, and we’ll be happy to assist you.  
 
----
 
 ## Create Your Dataset  
 In artificial intelligence, everything relies on data. The quality of your AI model hinges on the quality, structure, and relevance of the dataset it’s trained on. If you understand your project goals and invest effort in creating the right dataset, you’ll significantly boost the chances of achieving good results.  
+
 
 ### Why Create your data on UbiAI?  
 Despite its importance, dataset creation is often seen as a challenging and tedious process. Collecting, annotating, and validating data can be complex and time-consuming, leaving many frustrated. UbiAI simplifies this process, offering powerful yet easy-to-use tools making your workflow stress-free and efficient. Let’s walk through the dataset creation process step-by-step:  
 
 ### Getting Started with Datasets  
 To begin creating a dataset, navigate to the *Datasets* menu on the left sidebar of the UbiAI interface. This section serves as the central hub for managing all your datasets.  
+
+![image](https://github.com/user-attachments/assets/261367ea-18b2-4ac9-b3e2-5937529b751d)
 
 Here’s what you’ll find:  
 - **List of Existing Datasets**: A complete overview of all your datasets, including key metadata such as dataset creation date, size, and Versions.  
@@ -132,6 +138,8 @@ This Process starts as soon as you click on the *New Dataset* button in the top-
 #### Step 1: Selecting a Dataset Type  
 The first step in creating a new dataset is choosing the dataset type that aligns with your project’s goals. UbiAI offers support for various dataset types to suit different tasks:  
 
+![image](https://github.com/user-attachments/assets/909e7b1b-d3b3-4b54-bc67-934d036e75b0)
+
 - **Prompt-Response**: Ideal for tasks involving conversational AI or prompt tuning. These datasets involve pairing specific prompts with corresponding responses.  
 - **Text-Based Datasets**: Designed for natural language processing tasks such as Named Entity Recognition (NER) or other annotation needs involving free-form text. This dataset type supports span-based or character-based annotations.  
 - **Document-Based**: This dataset type is ideal for working with documents such as PDFs, scanned images, or other document formats. UbiAI’s OCR (Optical Character Recognition) technology is integrated to assist you in annotating these types of files by automatically extracting text from images or scanned documents.  
@@ -141,6 +149,8 @@ Each dataset type has unique features and workflows to optimize performance for 
 
 #### Step 2: Naming and Choosing a Language  
 Once you’ve selected the dataset type, the next step is to give it a name and specify the primary language:  
+
+![image](https://github.com/user-attachments/assets/8507c0e2-4aeb-40f4-8fa8-5c170db9a1c8)
 
 - **Dataset Name**: Choose a descriptive name that reflects the purpose or content of the dataset. This will make it easier to locate and manage as your library of datasets grows.  
 - **Primary Language**: Select the language in which your data is written. This is essential for ensuring accurate tokenization and annotation. Tokenization refers to breaking down text into smaller units (tokens), which are the building blocks of AI model training.  
@@ -160,6 +170,8 @@ This description becomes your blueprint, ensuring that everyone involved in the 
 #### Step 4: Customizing the Dataset  
 The next step involves customizing the dataset for your task. Depending on the dataset type, you may need to define various labels:  
 
+![image](https://github.com/user-attachments/assets/136edad6-0aad-437c-8d01-d9b625b81679)
+
 - **Entities**: For text and document datasets, specify entity types such as names, dates, or locations.  
 - **Relations**: Define and establish relationships between different entities within your data.  
 - **Classifications**: Create distinct classes for image or text classification tasks.  
@@ -169,6 +181,8 @@ For prompt-response datasets, this step is unnecessary, as annotations are gener
 #### Step 5: Uploading or Generating the Dataset  
 At this stage, you can upload your data files or create a dataset from scratch directly within UbiAI. The platform supports various file types, including:  
 TXT, PDF, HTML, DOCX, Native PDF with OCR, JPG, PNG, JSON, CSV, TSV, and ZIP.  
+
+![image](https://github.com/user-attachments/assets/3aac60d2-7889-4d6d-8db0-006ec9f032a5)
 
 For prompt-response datasets, UbiAI offers a unique feature to generate data automatically, saving time and manual effort.  
 
@@ -185,6 +199,9 @@ You can track the annotation progress by looking at the completion percentage ba
 
 #### Step 7: Validating and Saving the Dataset  
 Once the annotation process is complete, it’s time to validate your dataset:  
+
+![image](https://github.com/user-attachments/assets/b17f8c08-7653-4291-9043-4cb551802922)
+
 
 - **Quality Checks**: Ensure that annotations are accurate and complete.  
 - **Version Control**: UbiAI tracks every change you make, allowing you to revert to previous versions or compare different iterations.  
@@ -209,10 +226,12 @@ After validation, your dataset is ready for use. You have several options to int
   - Training machine learning models.  
   - Running predictions using your trained models.  
 
----
 
 ## Fine-Tune Your Models  
 In UBIAI, fine-tuning your models is a simple process designed to help you achieve outstanding performance in various natural language processing tasks. This page will walk you through the process of fine-tuning models step-by-step, ensuring that you maximize the potential of your datasets and workflows.  
+
+![image](https://github.com/user-attachments/assets/a40d0dcc-e261-44a6-98ab-75fc98b37f56)
+
 
 ### Why Fine-Tune Your Model on UBIAI?  
 Fine-tuning your model on UBIAI allows you to customize and optimize pre-trained models for your specific needs, enhancing their performance on your particular dataset. UBIAI provides a user-friendly, code-free environment that simplifies the fine-tuning process, making it accessible for both novice and experienced users.  
@@ -240,6 +259,9 @@ UBIAI supports the following tasks to address a broad range of NLP use cases:
 #### Step 1: Model Creation  
 Navigate to the *Models* page and click on *Create New Model* then select the task you want to train your model for:  
 
+![image](https://github.com/user-attachments/assets/42ae8c5c-a056-4ae6-ac0f-0651da8691c4)
+
+
 - Named Entity Recognition (NER)  
 - Relation Extraction  
 - Text Classification  
@@ -250,11 +272,16 @@ Then name your model and choose the model type to proceed with creating your cus
 #### Step 2: Dataset Preparation  
 After you add your model details you can either assign an existing dataset or import a new one:  
 
+![image](https://github.com/user-attachments/assets/aea48cf9-beb3-4949-95d5-1659bc6a4b54)
+
+
 - **Assign Dataset**: Link an existing dataset to your model. The dataset becomes exclusive to the model, ensuring it is not accidentally modified by other models.  
 - **Import Dataset**: Combine documents from multiple datasets to create a new one. You can include text only or both text and annotations.  
 
 #### Step 3: Configure Training Parameters  
 Before initiating training make sure to:  
+
+![image](https://github.com/user-attachments/assets/640d18cd-bfc9-41ab-896f-cb7f83f70b46)
 
 - Validate the dataset in the *Dataset* tab to ensure annotations are complete and accurate.  
 - Select the model in the *Training Configurations* panel.  
@@ -267,26 +294,10 @@ Before initiating training make sure to:
 
 Review your configurations and click *Start Model Training*.  
 
-#### Step 4: Evaluate the Model  
-Once training is complete, navigate to the *Model Dashboard* to view performance metrics: F1-Score, Precision, Recall.  
-
-> **Note**: LLM scores are not provided yet, we are working on including them in the future.  
-
-In addition to the model and entity scores, you can visualize the loss, Precision, Recall and F-1 curves related to a specific training run.  
-To do so, go to the *Training history* tab and select a specific run from the list of runs.  
-
-Ubiai also gives you access to confusion matrix so you can easily visualize the number of correctly and wrongly classified outputs.  
-To access the confusion matrix navigate to the dedicated *Confusion Matrix* tab located in the top right section in any model details interface.  
-
-A confusion matrix summarizes the performance of a classification model by showing the counts of:  
-
-- **True Positive (TP)**: The number of instances that were correctly predicted as positive.  
-- **False Positive (FP)**: The number of instances that were incorrectly predicted as positive.  
-- **True Negative (TN)**: The number of instances that were correctly predicted as negative.  
-- **False Negative (FN)**: The number of instances that were incorrectly predicted as negative.  
-
 ### Model Fine-Tuning with API  
 Programmatic model training for NER and relation extraction can be easily done with our API. This feature is only available for Growth and Business packages:  
+
+![image](https://github.com/user-attachments/assets/4d789665-39b3-4c0e-b1a2-c11ce57f32ba)
 
 1. Within the model details dashboard, select *'Train model with API'* drop down menu.  
 2. Copy/paste the generated code into your application.  
