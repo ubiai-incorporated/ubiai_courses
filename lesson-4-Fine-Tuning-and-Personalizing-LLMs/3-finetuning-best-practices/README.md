@@ -81,8 +81,4 @@ Content safety forms another critical consideration, particularly for models dep
 2. Model-level constraints trained through techniques like reinforcement learning from human feedback
 3. Output screening to catch any problematic content before it reaches users
 
-## Conclusion
 
-The art and science of fine-tuning large language models continues to evolve rapidly, but the fundamental principles outlined in this chapter provide a stable foundation for effective practice. By combining rigorous data understanding, thoughtful hyperparameter selection, comprehensive evaluation, computational efficiency, and ethical consideration, practitioners can unlock the remarkable potential of these models while avoiding common pitfalls.
-
-What emerges most clearly from both research and practical experience is that successful fine-tuning requires as much judgment as technical skill. The best practitioners develop an intuitive feel for how models will respond to particular adjustments, informed by deep theoretical understanding but refined through hands-on experimentation. This chapter provides the tools and frameworks to develop that intuition systematically, paving the way for successful fine-tuning across a wide range of applications.
