@@ -2,6 +2,8 @@
 
 In artificial intelligence, the path to success is built on two essential pillars: high-quality data and effective fine-tuning. However, achieving both has long been a time-consuming challenge, requiring substantial technical expertise and resources.  
 
+![image](https://github.com/user-attachments/assets/312ab4d6-cc15-4a2e-90f6-1989d05f2149)
+
 UbiAI is a powerful no-code platform that brings together intelligent data preparation and model fine-tuning in a single, unified user-friendly workspace. Whether you are a technical expert or a business team member, UbiAI adapts to your needs, making model development simpler, faster, and more straightforward.  
 
 - **Models**: A dedicated space for creating, managing, and organizing all your models.  
@@ -21,6 +23,7 @@ When you first open the platform, you’ll start in the Models page, where you c
 
 ## Account Settings  
 The Settings section in UbiAI allows you to manage your account details and preferences. You can access it via the bottom-left menu. Below is a breakdown of the key options available:  
+![image](https://github.com/user-attachments/assets/b9e9e884-daca-47f3-a69b-cdc10e1cceb8)
 
 ### Personal Information:  
 Here, you can update your name and last name. This section ensures your account reflects your most up-to-date details.  
