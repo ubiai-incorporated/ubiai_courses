@@ -34,7 +34,8 @@ In this section, you can manage your email and password. If you need to change y
 ### Plan & Products:  
 This section enables you to adjust your subscription plan and customize your usage based on your needs.  
 You can upgrade or change your current plan by choosing one of the following plans UbiAI offers:  
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/391a3011-305f-4c5a-929d-2bde4d11c5ae)
 
 - **Pay-As-You-Go**: For single users with access to 1 custom model, API Inference, 100 Docs/month, and more.  
 - **Growth Plan**: For up to 5 users, 5 custom models, 3k Docs/month, 10h GPU Time, and additional features.  
