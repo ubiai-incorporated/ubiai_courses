@@ -19,21 +19,22 @@ At the bottom of the navigation panel, you’ll find helpful resources, includin
 
 When you first open the platform, you’ll start in the Models page, where you can immediately begin working on a new projects.  
 
----
-
 ## Account Settings  
 The Settings section in UbiAI allows you to manage your account details and preferences. You can access it via the bottom-left menu. Below is a breakdown of the key options available:  
 ![image](https://github.com/user-attachments/assets/b9e9e884-daca-47f3-a69b-cdc10e1cceb8)
 
 ### Personal Information:  
 Here, you can update your name and last name. This section ensures your account reflects your most up-to-date details.  
+![image](https://github.com/user-attachments/assets/d01f494e-a68d-4885-a831-ddc750b9a451)
 
 ### Account Information:  
 In this section, you can manage your email and password. If you need to change your password, simply click on the *Change Password* option, and you’ll be guided through the process to reset it.  
+![image](https://github.com/user-attachments/assets/f389c524-78bb-4aee-9935-5bd7baca15b7)
 
 ### Plan & Products:  
 This section enables you to adjust your subscription plan and customize your usage based on your needs.  
 You can upgrade or change your current plan by choosing one of the following plans UbiAI offers:  
+![Uploading image.png…]()
 
 - **Pay-As-You-Go**: For single users with access to 1 custom model, API Inference, 100 Docs/month, and more.  
 - **Growth Plan**: For up to 5 users, 5 custom models, 3k Docs/month, 10h GPU Time, and additional features.  
@@ -47,12 +48,15 @@ If your requirements extend beyond what’s offered in the standard plans, you c
 
 ### Billing Information  
 In the Billing Information section, you can view your billing details, access your invoices, and download receipts. This ensures that you stay on top of your payment history and account charges.  
+![image](https://github.com/user-attachments/assets/48d707fd-f239-40d8-9b1c-322b6b7b7ecc)
 
 ### Shared Offer  
 This section allows you to manage your team. You can add or remove users, view invitations you’ve received, and see who is part of your shared workspace.  
+![image](https://github.com/user-attachments/assets/dd125e5a-1d0e-4695-817b-c749d9645115)
 
 ### Integrations  
 Here, you can connect UbiAI to external tools like OpenAI or Hugging Face through API keys. This allows simple integration with your favorite tools.  
+![image](https://github.com/user-attachments/assets/fba5db23-7ad0-40c9-854c-e701072aa83a)
 
 ---
 
